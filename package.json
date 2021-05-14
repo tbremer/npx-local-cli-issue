@@ -1,0 +1,6 @@
+{
+  "name": "npx-local-cli-isse",
+  "private": true,
+  "scripts": {},
+  "bin": "./cli.mjs"
+}
